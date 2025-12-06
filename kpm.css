@@ -1,0 +1,25 @@
+body{
+	background-color: darkred;
+	color: white;
+	align-items: center;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+#score-board{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 20px auto;
+	align-items: center;
+	width: 60%;
+}
+
+button{
+	padding: 15px 15px;
+	text-align: center;
+	display: inline-block;
+	font-size: 40px;
+	margin: 4px 2px;
+}
